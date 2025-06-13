@@ -1,5 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Support Request
-    url: https://github.com/firebolt-db/firebolt-core/discussions
-    about: Support request or question related to Firebolt Core
